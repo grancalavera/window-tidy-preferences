@@ -154,9 +154,9 @@
 			<key>PositionY</key>
 			<integer>10</integer>
 			<key>QuickLayoutKeyCode</key>
-			<integer>-1</integer>
+			<integer>47</integer>
 			<key>QuickLayoutKeyFlags</key>
-			<integer>0</integer>
+			<integer>2304</integer>
 			<key>StartX</key>
 			<integer>1</integer>
 			<key>StartY</key>
@@ -262,6 +262,6 @@
 	<key>ShowWelcome</key>
 	<false/>
 	<key>Tab</key>
-	<integer>3</integer>
+	<integer>0</integer>
 </dict>
 </plist>
