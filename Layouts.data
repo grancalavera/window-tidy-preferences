@@ -18,103 +18,19 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>3</integer>
+			<integer>2</integer>
 			<key>EndY</key>
-			<integer>6</integer>
-			<key>GridX</key>
-			<integer>6</integer>
-			<key>GridY</key>
-			<integer>6</integer>
-			<key>Height</key>
-			<integer>768</integer>
-			<key>LayoutType</key>
-			<integer>0</integer>
-			<key>Name</key>
-			<string>Left Half</string>
-			<key>PositionX</key>
-			<integer>10</integer>
-			<key>PositionY</key>
-			<integer>10</integer>
-			<key>QuickLayoutKeyCode</key>
-			<integer>123</integer>
-			<key>QuickLayoutKeyFlags</key>
-			<integer>8392960</integer>
-			<key>StartX</key>
-			<integer>0</integer>
-			<key>StartY</key>
-			<integer>0</integer>
-			<key>Width</key>
-			<integer>1024</integer>
-		</dict>
-		<dict>
-			<key>CentreX</key>
-			<true/>
-			<key>CentreY</key>
-			<true/>
-			<key>EndX</key>
-			<integer>6</integer>
-			<key>EndY</key>
-			<integer>6</integer>
-			<key>GridX</key>
-			<integer>6</integer>
-			<key>GridY</key>
-			<integer>6</integer>
-			<key>Height</key>
-			<integer>768</integer>
-			<key>LayoutType</key>
-			<integer>0</integer>
-			<key>Name</key>
-			<string>Right Half</string>
-			<key>PositionX</key>
-			<integer>10</integer>
-			<key>PositionY</key>
-			<integer>10</integer>
-			<key>QuickLayoutKeyCode</key>
-			<integer>124</integer>
-			<key>QuickLayoutKeyFlags</key>
-			<integer>8392960</integer>
-			<key>StartX</key>
-			<integer>3</integer>
-			<key>StartY</key>
-			<integer>0</integer>
-			<key>Width</key>
-			<integer>1024</integer>
-		</dict>
-		<dict>
-			<key>EndX</key>
-			<integer>5</integer>
-			<key>EndY</key>
-			<integer>5</integer>
-			<key>GridX</key>
-			<integer>6</integer>
-			<key>GridY</key>
-			<integer>6</integer>
-			<key>Name</key>
-			<string>Centre</string>
-			<key>StartX</key>
 			<integer>1</integer>
-			<key>StartY</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>CentreX</key>
-			<true/>
-			<key>CentreY</key>
-			<true/>
-			<key>EndX</key>
-			<integer>6</integer>
-			<key>EndY</key>
-			<integer>6</integer>
 			<key>GridX</key>
-			<integer>6</integer>
+			<integer>2</integer>
 			<key>GridY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>Height</key>
 			<integer>768</integer>
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>Full Screen</string>
+			<string>x</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -136,19 +52,87 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>5</integer>
+			<integer>2</integer>
 			<key>EndY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>GridX</key>
-			<integer>6</integer>
+			<integer>2</integer>
 			<key>GridY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>Height</key>
 			<integer>768</integer>
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>Reading</string>
+			<string>- x</string>
+			<key>PositionX</key>
+			<integer>10</integer>
+			<key>PositionY</key>
+			<integer>10</integer>
+			<key>QuickLayoutKeyCode</key>
+			<integer>124</integer>
+			<key>QuickLayoutKeyFlags</key>
+			<integer>8392960</integer>
+			<key>StartX</key>
+			<integer>1</integer>
+			<key>StartY</key>
+			<integer>0</integer>
+			<key>Width</key>
+			<integer>1024</integer>
+		</dict>
+		<dict>
+			<key>CentreX</key>
+			<true/>
+			<key>CentreY</key>
+			<true/>
+			<key>EndX</key>
+			<integer>1</integer>
+			<key>EndY</key>
+			<integer>1</integer>
+			<key>GridX</key>
+			<integer>2</integer>
+			<key>GridY</key>
+			<integer>1</integer>
+			<key>Height</key>
+			<integer>768</integer>
+			<key>LayoutType</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>x -</string>
+			<key>PositionX</key>
+			<integer>10</integer>
+			<key>PositionY</key>
+			<integer>10</integer>
+			<key>QuickLayoutKeyCode</key>
+			<integer>123</integer>
+			<key>QuickLayoutKeyFlags</key>
+			<integer>8392960</integer>
+			<key>StartX</key>
+			<integer>0</integer>
+			<key>StartY</key>
+			<integer>0</integer>
+			<key>Width</key>
+			<integer>1024</integer>
+		</dict>
+		<dict>
+			<key>CentreX</key>
+			<true/>
+			<key>CentreY</key>
+			<true/>
+			<key>EndX</key>
+			<integer>4</integer>
+			<key>EndY</key>
+			<integer>1</integer>
+			<key>GridX</key>
+			<integer>5</integer>
+			<key>GridY</key>
+			<integer>1</integer>
+			<key>Height</key>
+			<integer>768</integer>
+			<key>LayoutType</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>- x x x -</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -170,19 +154,19 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>12</integer>
+			<integer>5</integer>
 			<key>EndY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>GridX</key>
-			<integer>12</integer>
+			<integer>5</integer>
 			<key>GridY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>Height</key>
 			<integer>768</integer>
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>Working Area</string>
+			<string>- - - - x</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -192,7 +176,7 @@
 			<key>QuickLayoutKeyFlags</key>
 			<integer>2304</integer>
 			<key>StartX</key>
-			<integer>3</integer>
+			<integer>4</integer>
 			<key>StartY</key>
 			<integer>0</integer>
 			<key>Width</key>
@@ -204,19 +188,19 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>3</integer>
+			<integer>1</integer>
 			<key>EndY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>GridX</key>
-			<integer>12</integer>
+			<integer>5</integer>
 			<key>GridY</key>
-			<integer>6</integer>
+			<integer>1</integer>
 			<key>Height</key>
 			<integer>768</integer>
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>Aux Area</string>
+			<string>x - - - -</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -232,6 +216,74 @@
 			<key>Width</key>
 			<integer>1024</integer>
 		</dict>
+		<dict>
+			<key>CentreX</key>
+			<true/>
+			<key>CentreY</key>
+			<true/>
+			<key>EndX</key>
+			<integer>4</integer>
+			<key>EndY</key>
+			<integer>1</integer>
+			<key>GridX</key>
+			<integer>5</integer>
+			<key>GridY</key>
+			<integer>1</integer>
+			<key>Height</key>
+			<integer>768</integer>
+			<key>LayoutType</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>x x x x -</string>
+			<key>PositionX</key>
+			<integer>10</integer>
+			<key>PositionY</key>
+			<integer>10</integer>
+			<key>QuickLayoutKeyCode</key>
+			<integer>33</integer>
+			<key>QuickLayoutKeyFlags</key>
+			<integer>6400</integer>
+			<key>StartX</key>
+			<integer>0</integer>
+			<key>StartY</key>
+			<integer>0</integer>
+			<key>Width</key>
+			<integer>1024</integer>
+		</dict>
+		<dict>
+			<key>CentreX</key>
+			<true/>
+			<key>CentreY</key>
+			<true/>
+			<key>EndX</key>
+			<integer>5</integer>
+			<key>EndY</key>
+			<integer>1</integer>
+			<key>GridX</key>
+			<integer>5</integer>
+			<key>GridY</key>
+			<integer>1</integer>
+			<key>Height</key>
+			<integer>768</integer>
+			<key>LayoutType</key>
+			<integer>0</integer>
+			<key>Name</key>
+			<string>- x x x x</string>
+			<key>PositionX</key>
+			<integer>10</integer>
+			<key>PositionY</key>
+			<integer>10</integer>
+			<key>QuickLayoutKeyCode</key>
+			<integer>30</integer>
+			<key>QuickLayoutKeyFlags</key>
+			<integer>6400</integer>
+			<key>StartX</key>
+			<integer>1</integer>
+			<key>StartY</key>
+			<integer>0</integer>
+			<key>Width</key>
+			<integer>1024</integer>
+		</dict>
 	</array>
 	<key>NumRequests</key>
 	<integer>1</integer>
@@ -240,13 +292,13 @@
 	<key>OptionButton</key>
 	<integer>2</integer>
 	<key>QuickLayoutGridX</key>
-	<integer>6</integer>
+	<integer>10</integer>
 	<key>QuickLayoutGridY</key>
 	<integer>6</integer>
 	<key>QuickLayoutKeyCode</key>
-	<integer>-1</integer>
+	<integer>12</integer>
 	<key>QuickLayoutKeyFlags</key>
-	<integer>0</integer>
+	<integer>2304</integer>
 	<key>QuickLayoutNearMouse</key>
 	<false/>
 	<key>RatingReminder</key>
