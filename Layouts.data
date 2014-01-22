@@ -18,11 +18,11 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>2</integer>
+			<integer>1</integer>
 			<key>EndY</key>
 			<integer>1</integer>
 			<key>GridX</key>
-			<integer>2</integer>
+			<integer>1</integer>
 			<key>GridY</key>
 			<integer>1</integer>
 			<key>Height</key>
@@ -30,7 +30,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>x</string>
+			<string>[ 1 ]</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -64,7 +64,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>- x</string>
+			<string>1 - [ 1 ]</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -98,7 +98,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>x -</string>
+			<string>[ 1 ] - 1</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -132,7 +132,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>- x x x -</string>
+			<string>1 - [ 3 ] - 1</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -154,11 +154,11 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>EndY</key>
 			<integer>1</integer>
 			<key>GridX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>GridY</key>
 			<integer>1</integer>
 			<key>Height</key>
@@ -166,7 +166,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>- - - - x</string>
+			<string>7 - [ 3 ]</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -176,7 +176,7 @@
 			<key>QuickLayoutKeyFlags</key>
 			<integer>2304</integer>
 			<key>StartX</key>
-			<integer>4</integer>
+			<integer>7</integer>
 			<key>StartY</key>
 			<integer>0</integer>
 			<key>Width</key>
@@ -188,11 +188,11 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>EndY</key>
 			<integer>1</integer>
 			<key>GridX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>GridY</key>
 			<integer>1</integer>
 			<key>Height</key>
@@ -200,7 +200,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>x - - - -</string>
+			<string>[ 3 ] - 7</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -222,11 +222,11 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>4</integer>
+			<integer>7</integer>
 			<key>EndY</key>
 			<integer>1</integer>
 			<key>GridX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>GridY</key>
 			<integer>1</integer>
 			<key>Height</key>
@@ -234,7 +234,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>x x x x -</string>
+			<string>[ 7 ] - 3</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -256,11 +256,11 @@
 			<key>CentreY</key>
 			<true/>
 			<key>EndX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>EndY</key>
 			<integer>1</integer>
 			<key>GridX</key>
-			<integer>5</integer>
+			<integer>10</integer>
 			<key>GridY</key>
 			<integer>1</integer>
 			<key>Height</key>
@@ -268,7 +268,7 @@
 			<key>LayoutType</key>
 			<integer>0</integer>
 			<key>Name</key>
-			<string>- x x x x</string>
+			<string>3 - [ 7 ]</string>
 			<key>PositionX</key>
 			<integer>10</integer>
 			<key>PositionY</key>
@@ -278,7 +278,7 @@
 			<key>QuickLayoutKeyFlags</key>
 			<integer>6400</integer>
 			<key>StartX</key>
-			<integer>1</integer>
+			<integer>3</integer>
 			<key>StartY</key>
 			<integer>0</integer>
 			<key>Width</key>
@@ -314,6 +314,6 @@
 	<key>ShowWelcome</key>
 	<false/>
 	<key>Tab</key>
-	<integer>0</integer>
+	<integer>3</integer>
 </dict>
 </plist>
